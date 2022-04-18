@@ -1,6 +1,6 @@
 {
   "name": "currexchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Foreign currency exchange rates",
   "main": "./src/index.js",
   "scripts": {

@@ -14,7 +14,25 @@
     "exchange rate",
     "foreign exchange"
   ],
-  "author": "",
+  "author": {
+    "name": "Chris Michael",
+    "email": "chrisperezsantiago1@gmail.com",
+    "social": {
+      "github": "https://github.com/ChrisMichaelPerezSantiago",
+      "twitter": "https://twitter.com/Chris5855M"
+    }
+  },
+  "contributors": [
+    {
+      "name": "Chris Michael",
+      "url": "https://github.com/ChrisMichaelPerezSantiago",
+      "reason": "Project Leader, and Developer"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisMichaelPerezSantiago/currexchange.git"
+  },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.1",
